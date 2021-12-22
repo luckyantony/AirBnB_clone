@@ -1,1 +1,1 @@
-# AirBnB_clone
+This is a README file for AirBnB_clone
